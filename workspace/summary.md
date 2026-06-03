@@ -1,0 +1,1 @@
+Harness 可以限制 Agent 的行为。
